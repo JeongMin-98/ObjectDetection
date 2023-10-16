@@ -2,14 +2,10 @@
 // All rights reserved.
 
 /**
- * @file PIDController.cpp
- * @author Jongrok Lee (lrrghdrh@naver.com)
- * @author Jiho Han
- * @author Haeryong Lim
- * @author Chihyeon Lee
- * @brief PID Controller Class source file
- * @version 1.1
- * @date 2023-05-02
+ * @file LaneKalmanFilter.cpp
+ * @author 김대완 (https://github.com/dawan0111)
+ * @brief LaneKalmanFilter Class source file
+ * @date 2023-06-26
  */
 
 #include "LaneKeepingSystem/LaneKalmanFilter.hpp"

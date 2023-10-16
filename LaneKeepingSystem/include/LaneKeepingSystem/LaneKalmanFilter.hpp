@@ -2,14 +2,10 @@
 // All rights reserved.
 
 /**
- * @file PIDController.hpp
- * @author Jongrok Lee (lrrghdrh@naver.com)
- * @author Jiho Han
- * @author Haeryong Lim
- * @author Chihyeon Lee
- * @brief PID Controller Class header file
- * @version 1.1
- * @date 2023-05-02
+ * @file LaneKalmanFilter.hpp
+ * @author 김대완 (https://github.com/dawan0111)
+ * @brief LaneKalmanFilter Class header file
+ * @date 2023-06-26
  */
 #ifndef LANE_KALMANFILTER_HPP_
 #define LANE_KALMANFILTER_HPP_
