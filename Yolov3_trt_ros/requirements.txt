@@ -1,0 +1,15 @@
+numpy==1.23
+torch
+torchvision
+tensorboard
+tensorboardX
+torchsummary
+pynvml
+imgaug
+onnx
+onnxruntime
+terminaltables
+tqdm
+opencv-python-headless<4.3
+protobuf==3.20
+pycuda<2021.1
